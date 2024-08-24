@@ -35,8 +35,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61561193416655",
-    "100000768468627"
+    "61564523816700",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
@@ -47,21 +47,21 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "☞︎︎︎✍︎ 𝚇 𝙽 𝙸 𝙻 ✿︎𝙱☺︎︎𝚃 ♕︎",
+  "nickNameBot": "☞︎︎︎✍︎ A R Y A N ✿︎𝙱☺︎︎𝚃 ♕︎",
   "prefix": "/",
   "xnil": "https://xnil-apis.onrender.com/",
   "api": "https://www.noobs-api.000.pe",
   "api2": "https://www.noobs-api.000.pe/dipto",
   "a6y": "https://a6-video-api-t0il.onrender.com/Romim",
-  "authorName": "𝐗𝐧𝐢𝐥 𝐗𝐡𝐨𝐰𝐝𝐡𝐮𝐫𝐲",
-  "facebook2": "https://www.facebook.com/xnilbot143",
-  "facebook": "https://www.facebook.com/xnilxhowdhury143",
-  "email": "xnilxhowdhury@gmail.com",
-  "replit": "https://replit.com/@xnil6x99",
-  "github": "https://github.com/xnil6x",
-  "insta": "https://www.instagram.com/xnil6x",
-  "age": "21+",
-  "TG": "https://t.me/xnil6x",
+  "authorName": "ArYan",
+  "facebook2": "https://www.facebook.com/raj.vai.404",
+  "facebook": "https://www.facebook.com/ArYan.com.404",
+  "email": "davidaryan397@gmail.com",
+  "replit": "https://replit.com/@DAVID-RAJ",
+  "github": "https://github.com/DAVID-ARYAN-RAJ/ARYAN-RAJ",
+  "insta": "no",
+  "age": "18+",
+  "TG": "",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
